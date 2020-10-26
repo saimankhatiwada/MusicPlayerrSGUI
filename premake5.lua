@@ -34,7 +34,7 @@ project "MusicPlayer"
 
   includedirs
   {
-      "%{prj.name}/Src",
+      "%{prj.name}/src",
 	  "%{IncludeDir.GLFW}",
       "%{IncludeDir.ImGui}"
   }
